@@ -1,7 +1,7 @@
 
-# 🛳️ Batalha Naval em Python
+#  Batalha Naval em Python
 
-## 📖 Descrição
+## Descrição
 
 Este projeto é uma recriação do clássico jogo **Batalha Naval**, totalmente implementado em **Python**.  
 O jogador enfrenta o **computador**, posicionando embarcações em um tabuleiro 10x10 e tentando afundar todas as do adversário antes que ele afunde as suas.
@@ -15,14 +15,14 @@ O código foi dividido em dois arquivos principais para melhor organização:
 ## ⚙️ Estrutura dos Arquivos
 
 ```
-📂 Batalha_Naval/
+ Batalha_Naval/
 ├── BATALHA NAVAL.py
 └── funcoes_batalha_naval.py
 ```
 
 ---
 
-## 🧩 Funcionalidades Principais
+##  Funcionalidades Principais
 
 - **Posicionamento manual das embarcações**.
 - **Posicionamento automático do computador**.
@@ -32,7 +32,7 @@ O código foi dividido em dois arquivos principais para melhor organização:
 
 ---
 
-## 🕹️ Como Jogar
+##  Como Jogar
 
 1. Execute o arquivo principal:
    ```bash
@@ -54,7 +54,7 @@ O código foi dividido em dois arquivos principais para melhor organização:
 
 ---
 
-## 🚢 Tipos de Embarcações
+##  Tipos de Embarcações
 
 | Tipo de barco | Tamanho | Quantidade |
 |----------------|----------|------------|
@@ -65,7 +65,7 @@ O código foi dividido em dois arquivos principais para melhor organização:
 
 ---
 
-## 💡 Regras do Jogo
+##  Regras do Jogo
 
 - Cada acerto dá direito a **jogar novamente**.
 - Caso ataque uma posição já escolhida, **perde a vez**.
@@ -77,7 +77,7 @@ O código foi dividido em dois arquivos principais para melhor organização:
 
 ---
 
-## 🧠 Lógica e Implementação
+##  Lógica e Implementação
 
 O jogo utiliza:
 - **Listas bidimensionais (matrizes)** para representar os tabuleiros.
@@ -87,7 +87,7 @@ O jogo utiliza:
 
 ---
 
-## 📂 Funções Principais
+##  Funções Principais
 
 | Função | Descrição |
 |--------|------------|
@@ -98,7 +98,7 @@ O jogo utiliza:
 
 ---
 
-## 🧑‍💻 Desenvolvido por
+##  Desenvolvido por
 
 **Arthur Ribeiro Gonçalves**  
 Estudante de **Engenharia da Computação**
